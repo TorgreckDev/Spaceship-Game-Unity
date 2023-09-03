@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TorgreckDev
-- 👀 I’m interested in Cibersecurity and game developing.
+- 👀 I’m interested in Cybersecurity and game developing.
 - 🌱 I’m currently learning telematic engineering
 - 💞️ I’m looking to collaborate on my personal projects.
 - 📫 How to reach me instagram: @xaviccarbonell
